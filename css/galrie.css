@@ -1,0 +1,36 @@
+
+.img2{
+	width:400px;
+	height:400px;
+	margin:20px;
+	float:left;
+	position:all;
+	background-color: rgba(0,164,189);
+	padding:7px;
+	margin-right:62px;
+}
+body{
+	background-color: rgba(0,164,189,60%);
+}
+h1{
+	background-color: rgba(0,164,189);
+	padding-top:20px; 
+	padding-bottom: 20px;
+	text-align: center;
+}
+/*.img2:hover{
+	width:500px;
+	height:450px;*/
+}
+#bt{
+	border-color:none;
+	background-color:white;
+	float:left;
+	size:100px;
+
+
+}
+#bt:hover{
+
+	background-color:rgba(0,164,189,80%);
+}

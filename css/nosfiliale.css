@@ -1,0 +1,42 @@
+#h1fil{
+	background-color: rgba(0,164,189,60%);
+	text-align: center;
+	height: 100px;
+	padding-top: 25px;
+}
+#divlien{
+	/*float:right;*/
+	background-color: rgba(0,164,189,60%);
+
+}
+#div{
+	background-color:rgba(61,61,60,30%);
+	text-align: center;
+	padding-bottom: 50px;
+}
+p{
+	font-size: 1.5em;
+}
+h2{
+	padding-top: 50px;
+}
+#liensite:hover{
+	text-decoration: none;
+	color:white;
+}
+#liensite{
+	text-decoration: none;
+	color:rgba(0,164,189,60%);
+	font-size: 0.8em;
+}
+#lienfilial{
+	text-decoration: none;
+	color:white;
+	font-size: 0.8em;
+}
+#lienfilial:hover{
+	text-decoration: none;
+	color:rgba(0,164,189);
+	font-size: 0.8em;
+}
+

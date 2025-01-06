@@ -1,0 +1,289 @@
+
+/*body{
+	background-color: #D3D3D3;
+
+}*/
+.navbar-default{
+	background-color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	height:80px;
+}
+.navbar-default .navbar-brand{
+	color:#00a4bd;
+	margin-top:13px;	
+}
+#imglogo{
+	width:12%;
+	margin-left:10px;
+	margin-top:10px;	
+
+}
+#bs-example-navbar-collapse-1 {
+	font-size: 1.2em;
+	margin-top:13px;
+}
+
+#contct{
+	color: white;
+	background-color:#00a4bd;
+	border: none;
+	border-radius:10px;
+	height:30px;
+}
+
+#sectionfo{
+	background-image: url(../photos/zone.jpg);
+	height:630px;
+	background-size: contain;
+	background-repeat:repeat;
+
+}
+#h2sinfo{
+	font-family:calebri;
+	color: white;
+	font-style: oblique;
+	text-align:center;
+	font-size: 1.8em;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px #808080;
+}
+#h3sinfo{
+	font-family:arial;
+	font-weight:bold;
+	background-color:rgba(0,164,189);
+	height:flex;
+	float: unset;
+	color:white;
+	text-align:center;
+	font-size: 1.7em;
+	margin-top: 350px;
+	animation-name: zianim;
+	animation-duration: 2s;
+	animation-iteration-count:infinite;
+	animation-direction: alternate;
+	border-top:solid;
+	border-bottom: solid;
+	padding-bottom: 15px;
+	padding-top: 15px;
+
+
+}
+@media only screen and (max-width: 800px) {
+	#h3sinfo {
+		margin-top: 250px;
+	}
+}
+@keyframes zianim{
+	from{
+		margin-right:25%;
+		margin-left:25%;
+		border-color:transparent;
+		text-shadow: 5px 5px 10px #000000;
+
+	}
+	to{
+		margin-left:0%;
+		margin-right: 0%;
+		color:rgb(0,164,189);
+		background-color:rgba(255,255,255);
+
+	}
+
+}
+#sectionactu{
+	height:822px;
+	background-color:rgba(61,61,60,30%);
+	padding-top:30px;
+	color: black;
+}
+#h1actu{
+	background-color:rgba(0,164,189,60%);
+	text-align: center;
+	font-family: arial;
+	color: black;
+	padding-top:33px;
+	height: 100px;
+}
+.media {
+	padding-left:90px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.h4info{
+	padding-left:270px;
+	padding-right:100px;
+	text-align: justify;
+	font-weight: bold;
+}
+.pinfo{
+	padding-left:270px;
+	padding-right:90px;
+	text-align: justify;
+}
+
+
+.imginfo{
+	padding-top: 20px;
+	float: left;
+	padding-bottom: 20px;
+	width:40%;
+
+}
+#sectiondpln{
+	background-color:rgba(0,164,189,60%);
+	height: 180px;
+	margin-top: 5px;
+}
+#dupl{
+	
+	color:white;
+	padding: 10px;
+	font-weight: bolder;
+	font-size:0.6em;
+	background-color:rgba(61,61,60);
+
+}
+#h1dup{
+	text-align: center;
+	color: black;
+}
+#sectionloc{
+	margin-top:7px;
+	background-color: rgba(0,164,189,60%);
+	height:flex ;	
+}
+#loc {
+	padding-left:10px;
+	padding-right:10px;
+	text-align: justify;
+	margin-top:20px;
+	font-size: 1.8em;
+	color:black;
+}
+#imgmap{
+	margin:15px;
+	float:left;
+
+}
+#sectionziwilaya{
+	background-color:rgba(0,164,189,60%);
+	margin-top:5px;
+	padding-bottom:20px;
+	color:black;
+}
+#h1zone{
+	text-align:center;
+	color:black;
+	padding:15px;
+	background-color: rgba(0,164,189,70%);
+	margin-right:50px;
+	margin-left: 50px;
+	border-radius:5px;
+	border-color:black;
+}
+.column {
+	float: left;
+	width: 45%;
+	padding:10px;
+	padding-bottom:20px;
+	margin: 25px;
+	border-radius:10px;
+}
+@media only screen and (max-width: 600px) {
+	.column {
+		display: block;
+		width: 90%;
+	}
+}
+
+#c1{
+	background-color:rgba(0,164,189,70%);
+	margin-left: 50px;
+}
+#c2{
+	background-color:rgba(0,164,189,70%);
+}
+#c3{
+	background-color:rgba(0,164,189,70%);
+	margin-left: 50px;
+}
+#c4{
+	background-color:rgba(0,164,189,70%);
+}
+
+
+
+#imgziw{
+	margin-top: 20px;
+	width:55%;
+	padding:2px;
+	font-weight:bold;
+	background-color:black;
+}
+#pziw{
+	text-align: center;
+	background-color:rgba(0,164,189,60%);
+	font-size:2.5em;
+	height:700px;
+	margin-top:25px;
+	padding-top:40px;
+	box-shadow: 0px 0px 0px 0 rgba(0, 0, 0, 0.2);
+
+}
+.footer {
+
+	background-color:rgba(61,61,60,80%);
+	margin-top: 5px;
+	box-shadow: 4px 0px 8px 0 rgba(0, 0, 0, 0.2);
+}
+#tel{
+	font-family:arial;
+	font-size: 1.2em;
+	text-align:left;
+	font-weight:italic;
+	margin-left:20px;
+	color:white;
+}
+
+.foterinfo {
+	color:white;
+	font-size: 1.2em;	
+}
+.auther{
+	padding-top: 10px;
+	background-color:rgba(61,61,60,0.5);
+	text-align: center;
+}
+#lieneq {
+	color:white;
+	font-size: 1.0em;
+}
+#lieneq:hover{
+	color:rgba(0,164,189);
+	text-decoration: none;
+}
+#lienfil {
+	color:white;
+	font-size: 1.0em;
+}
+#lienfil:hover{
+	color:rgba(0,164,189);
+	text-decoration: none;
+}
+#lienacc{
+	color:white;
+	font-size: 1.0em;
+}
+#lienacc:hover{
+	color:rgba(0,164,189);
+	text-decoration: none;
+}
+#liencont{
+	color:white;
+	font-size: 1.0em;
+}
+#liencont:hover{
+	color:rgba(0,164,189);
+	text-decoration: none;
+}

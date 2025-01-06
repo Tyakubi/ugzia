@@ -1,0 +1,22 @@
+body{
+background-color: rgba(0,164,189,60%);	
+}
+h1{
+	color:black;
+	text-align: center;
+}
+
+#cont1{
+	padding-left: 50px;
+	padding-top:130px;
+	height:550px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	font-size: 5.0em;
+	background-image:url("../photos/contact-us-2.jpg");
+	color:white;
+	text-align: center;
+}
+#cont{
+	background-image:none;
+}
