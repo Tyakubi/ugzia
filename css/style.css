@@ -32,7 +32,7 @@
 }
 
 #sectionfo{
-	background-image: url(../photos/zone.jpg);
+	background-image: url(./photos/zone.jpg);
 	height:630px;
 	background-size: contain;
 	background-repeat:repeat;
