@@ -1,0 +1,51 @@
+body{
+	background-image: url(../images/fond.png);
+	background-attachment: fixed;
+}
+h1{
+	color: #f9a096;
+	text-align: center;
+	border-radius: 50%;
+	padding: 5px;
+	/*apliquer une animation a h1*/
+	animation-name: animh;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+@keyframes animh{
+	from{
+		color: #f9a096;
+		background-color:#701319; 
+	}
+	to{
+		color: #701319;
+		background-color:#f9a096;
+
+	}
+}
+form{
+	padding: 20px;
+	background-color: rgba(255,171,159,0.6);
+}
+fieldset{
+	border-color: #c1333e;
+}
+legend{
+	color: #701319;
+}
+input,select,textarea{
+	margin: 5px;
+	border: #ab0505 1px;
+	border-radius: 5px;
+	box-shadow: 1px 1px 4px #d83f3d inset;
+	padding: 5px;
+
+}
+select{
+	cursor: pointer;
+	width: 150px
+}
+input[type=submit],input[type=reset]{
+	width: 80px;
+	padding:5px;
+}

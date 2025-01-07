@@ -1,0 +1,51 @@
+.navbar-default .navbar-brand {
+    color: #f41414;
+}
+.navbar-default {
+    background-color: #f2dede;
+    border-color: #e7e7e7;
+}
+.binscrir{
+	color:#c13b3f;
+	background-color: white;
+	padding: 7px;
+	border-radius: 5px;
+	width: 120px;
+	font-weight: bold;
+}
+.bconnecter{
+	color:white;
+	background-color:#c13b3f;
+	padding: 7px;
+	border-radius: 5px;
+	width: 120px;
+	font-weight: bold;
+}
+.imgh{
+	max-width: 100%;
+	/*pour la largeure de la page */
+	height: auto;
+	display: block;
+}
+.mr-3{
+float: left;
+margin-right: 10px;
+margin-bottom: 50px;
+}
+.mt-0{
+	font-weight: bold;
+	font-size: 1.2em
+}
+.media-body{
+	text-align: justify;
+}
+#sectionformqtioninov{
+background-color: #f2dede;
+}
+.footer{
+	margin-top: 15px;
+	border-top: solid 1px #c13b3f;
+}
+.irs{
+	margin-right: 10px;
+}
