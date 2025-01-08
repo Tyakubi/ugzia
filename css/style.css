@@ -91,7 +91,7 @@
 
 }
 #sectionactu{
-	height:822px;
+	height:922px;
 	background-color:rgba(61,61,60,30%);
 	padding-top:30px;
 	color: black;
@@ -101,8 +101,8 @@
 	text-align: center;
 	font-family: arial;
 	color: black;
-	padding-top:20px;
-	height: 130px;
+	padding-top:30px;
+	height: 100px;
 }
 .media {
 	padding-left:90px;
