@@ -33,8 +33,10 @@
 
 #sectionfo{
 	background-image: url(../zone.jpg);
+	background-position: center;
 /* 	background-size: cover; /* Ensures the image covers the entire element */ */
-/*         Centers the background image */ background-position: center;
+/*         Centers the background image */ 
+	
         /*background-repeat: no-repeat;  Prevents the image from repeating */
 	
 
