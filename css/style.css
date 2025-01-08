@@ -34,7 +34,7 @@
 #sectionfo{
 	background-image: url(../zone.jpg);
 	height:630px;
-	background-size: contain;
+	background-size:contain;
 	
 
 }
@@ -91,7 +91,7 @@
 
 }
 #sectionactu{
-	height:822px;
+	height:1822px;
 	background-color:rgba(61,61,60,30%);
 	padding-top:30px;
 	color: black;
