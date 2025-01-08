@@ -35,10 +35,10 @@
 	background-image: url(../zone.jpg);
 	background-position: center;
 	background-size: cover; 
+	background-repeat: no-repeat;
 /* Ensures the image covers the entire element */ 
 /*         Centers the background image */ 
-	
-        /*background-repeat: no-repeat;  Prevents the image from repeating */
+	/*  Prevents the image from repeating */
 	
 
 }
@@ -61,7 +61,7 @@
 	font-size: 1.1em;
 	margin-top: 250px;
 /*         background-color:rgba(0,164,189); */
-	animation-name: zianim;
+/* 	animation-name: zianim; */
 	animation-duration: 3s;
 	animation-iteration-count:infinite;
 	animation-direction: alternate;
