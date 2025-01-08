@@ -35,7 +35,7 @@
 	background-image: url(../zone.jpg);
 	height:630px;
 	background-size: contain;
-	background-repeat:repeat;
+	
 
 }
 #h2sinfo{
@@ -97,7 +97,7 @@
 	color: black;
 }
 #h1actu{
-	background-color:rgba(0,164,189,100%);
+	background-color:rgba(0,164,189,80%);
 	text-align: center;
 	font-family: arial;
 	color: black;
