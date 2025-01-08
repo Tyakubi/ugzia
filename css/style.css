@@ -33,8 +33,9 @@
 
 #sectionfo{
 	background-image: url(../zone.jpg);
-	height:530px;
-	background-size:contain;
+	background-size: cover; /* Ensures the image covers the entire element */
+        background-position: center; /* Centers the background image */
+        background-repeat: no-repeat; /* Prevents the image from repeating */
 	
 
 }
