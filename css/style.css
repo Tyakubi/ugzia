@@ -76,15 +76,15 @@
 }
 @keyframes zianim{
 	from{
-		margin-right:25%;
-		margin-left:25%;
+/* 		margin-right:25%;
+		margin-left:25%; */
 		border-color:transparent;
 		text-shadow: 5px 5px 10px #000000;
 
 	}
 	to{
-		margin-left:0%;
-		margin-right: 0%;
+/* 		margin-left:0%;
+		margin-right: 0%; */
 /* 		color:rgb(0,164,189); */
 		background-color:rgba(255,255,255);
 
