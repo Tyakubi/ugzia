@@ -92,12 +92,12 @@
 }
 #sectionactu{
 	height:822px;
-	background-color:rgba(61,61,60,80%);
+	background-color:rgba(61,61,60,30%);
 	padding-top:30px;
 	color: black;
 }
 #h1actu{
-	background-color:rgba(0,164,189,60%);
+	background-color:rgba(0,164,189,100%);
 	text-align: center;
 	font-family: arial;
 	color: black;
