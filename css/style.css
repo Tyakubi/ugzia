@@ -57,7 +57,8 @@
 	color:white;
 	text-align:center;
 	font-size: 1.7em;
-	
+	margin-top: 250px;
+        background-color:rgba(0,164,189);
 	animation-name: zianim;
 	animation-duration: 2s;
 	animation-iteration-count:infinite;
